@@ -1,0 +1,9 @@
+numpy~=1.26.0
+scipy~=1.15.2
+scikit-learn~=1.6.1
+tqdm~=4.67.1
+pandas~=2.2.3
+requests~=2.32.3
+igraph~=0.11.8
+numba~=0.61.0
+torch~=2.6.0+cu118
