@@ -34,7 +34,7 @@ Clone the template project, replacing ``my-project`` with the name of the projec
 
 Run and test:
 
-        python3 main.py --dataset_name linear
+        python main.py --dataset_name linear
 
 
 ## Citation
