@@ -1,4 +1,4 @@
-## Still Under Construction
+## Still Under Construction - please open issues if you find any bugs or have suggestions, thank you!
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/hanxiao0607/AERCA/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
