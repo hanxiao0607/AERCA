@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/hanxiao0607/AERCA/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
-# AERCA: Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery
+# AERCA: Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery (ICLR 2025 Oral)
 <div align="center">
   <img src="https://github.com/hanxiao0607/AERCA/blob/main/other/poster.png" alt="AERCA Poster" />
 </div>
