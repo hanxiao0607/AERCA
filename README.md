@@ -139,7 +139,14 @@ Ensure that the dataset you choose is formatted as expected by the code. Additio
 
 ## Citation
 ```
-
+@inproceedings{
+   han2025root,
+   title={Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery},
+   author={Xiao Han and Saima Absar and Lu Zhang and Shuhan Yuan},
+   booktitle={The Thirteenth International Conference on Learning Representations},
+   year={2025},
+   url={https://openreview.net/forum?id=k38Th3x4d9}
+}
 ```
 
 ---
