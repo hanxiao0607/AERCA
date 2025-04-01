@@ -1,4 +1,4 @@
-## Still Under Construction - please open issues if you find any bugs or have suggestions, thank you!
+## 🚧 Still Under Construction - please open issues if you find any bugs or have suggestions, thank you!
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/hanxiao0607/AERCA/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
@@ -9,7 +9,7 @@
 
 ---
 
-## Table of Contents
+## 🗂️ Table of Contents
 
 1. [Overview](#overview)
 2. [System Configuration](#system-configuration)
@@ -24,7 +24,7 @@
 
 ---
 
-## Overview
+## 📘 Overview
 
 The AERCA algorithm performs robust root cause analysis in multivariate time series data by leveraging Granger causal discovery methods. This implementation in PyTorch facilitates experimentation on both synthetic and real-world datasets, allowing researchers to:
 - Identify causality relationships among variables.
@@ -35,7 +35,7 @@ For further details, refer to the paper [AERCA](https://openreview.net/forum?id=
 
 ---
 
-## System Configuration
+## 🧰 System Configuration
 
 The code has been developed and tested using the following system setup:
 
@@ -47,7 +47,7 @@ The code has been developed and tested using the following system setup:
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ For more details on setting up a virtual environment, refer to the [Python docum
 
 ---
 
-## Usage
+## 🚀 Usage
 ### Cloning the Repository
 Clone the repository from GitHub and navigate into the project directory. Replace `my-project` with your preferred folder name:
 
@@ -123,7 +123,7 @@ This will display details on parameters such as hyperparameter settings, logging
 
 ---
 
-## Datasets
+## 📊 Datasets
 The repository includes support for multiple datasets, each designed to evaluate the algorithm under different conditions:
 
 - Linear Dataset: Ideal for evaluating causal relationships in linear systems.
@@ -137,7 +137,7 @@ Ensure that the dataset you choose is formatted as expected by the code. Additio
 
 ---
 
-## Citation
+## 📄 Citation
 ```
 @inproceedings{
    han2025root,
@@ -151,5 +151,5 @@ Ensure that the dataset you choose is formatted as expected by the code. Additio
 
 ---
 
-## Contact & Support
+## 📬 Contact & Support
 For any questions, issues, or contributions, please open an issue on GitHub or contact the repository maintainer.
