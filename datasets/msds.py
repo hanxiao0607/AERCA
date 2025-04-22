@@ -64,7 +64,7 @@ def preprocess_metrics_data():
     print("Preprocessing metrics data...")
     target_dir = os.path.join(os.getcwd(), 'datasets', 'msds')
     metrics_dir = os.path.join(target_dir, 'MSDS', 'concurrent data', 'metrics')
-    files = os.listdir(metrics_dir)
+    files = ['wally122_metrics_concurrent.csv', 'wally113_metrics_concurrent.csv', 'wally123_metrics_concurrent.csv', 'wally117_metrics_concurrent.csv', 'wally124_metrics_concurrent.csv']
     dfs = []
 
     # Read csv files
