@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
 numpy==1.26.0
 scipy~=1.15.2
 scikit-learn~=1.6.1
