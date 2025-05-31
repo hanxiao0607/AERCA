@@ -43,7 +43,7 @@ The code has been developed and tested using the following system setup:
 - **GPU Driver:** NVIDIA driver 535.216.03
 - **CUDA Version:** 12.2
 - **Python Version:** 3.11.11
-- **PyTorch Version:** 2.6.0+cu118
+- **PyTorch Version:** 2.7.0+cu118 (updated by dependabot from 2.6.0+cu118)
 
 ---
 
